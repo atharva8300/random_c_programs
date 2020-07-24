@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595561244 source:d:\c_repos\c_assignment\saddle_point\main.c
+	<stdio.h>
+	<stdlib.h>
+
